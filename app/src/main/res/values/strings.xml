@@ -1,0 +1,120 @@
+<resources>
+    <string name="app_name">CMUgrupo8</string>
+    <string name="hello">ola</string>
+    <string name="menu">Menu</string>
+    <string name="profile">Perfil</string>
+    <string name="hello_user">Olá, %1$s!</string>
+    <string name="home">Início</string>
+    <string name="create_trip">Criar Viagem</string>
+    <string name="history">Histórico</string>
+    <string name="created_trips">Viagens Criadas</string>
+    <string name="participating_trips">Viagens em Participação</string>
+    <string name="logout">Sair</string>
+
+    <!-- Add Car Strings -->
+    <string name="add_car_details">Adicionar Detalhes do Carro</string>
+    <string name="brand">Marca</string>
+    <string name="model">Modelo</string>
+    <string name="color">Cor</string>
+    <string name="year">Ano</string>
+    <string name="number_of_seats">Número de Assentos</string>
+    <string name="save_changes">Salvar Alterações</string>
+
+    <!-- Trip Page Strings -->
+    <string name="selected_location">Localização Selecionada</string>
+    <string name="add_first_location">Adicionar Primeira Localização</string>
+    <string name="add_last_location">Adicionar Última Localização</string>
+    <string name="add_stop">Adicionar Paragem</string>
+    <string name="reset_locations">Redefinir Localizações</string>
+    <string name="trip_price">Preço da Viagem</string>
+    <string name="select_start_date">Selecionar Data de Início</string>
+    <string name="select_start_hour">Selecionar Hora de Início</string>
+    <string name="max_passengers">Número Máximo de Passageiros</string>
+    <string name="submit_trip">Enviar Viagem</string>
+    <string name="validation_start_end">Certifique-se de ter um local de início e fim.</string>
+    <string name="validation_fields">Preencha o preço, hora de início e número máximo de passageiros.</string>
+
+    <!-- Map Strings -->
+    <string name="search_location">Pesquisar Localização</string>
+    <string name="no_location">Nenhuma localização encontrada para</string>
+    <string name="error_search_location">Erro ao procurar localização</string>
+    <string name="no_location_selected">Nenhuma localização selecionada</string>
+    <string name="street">Rua</string>
+    <string name="latitude">Latitude</string>
+    <string name="longitude">Longitude</string>
+
+    <!-- Edit User Screen -->
+    <string name="edit_user">Editar Utilizador</string>
+    <string name="name_label">Nome</string>
+    <string name="phone_label">Telemóvel</string>
+    <string name="new_password">Nova Palavra-passe</string>
+    <string name="confirm_new_password">Confirmar Nova Palavra-passe</string>
+    <string name="save_changess">Guardar Alterações</string>
+    <string name="add_car">Adicionar Carro</string>
+    <string name="remove_car">Remover Carro</string>
+    <string name="delete_account">Eliminar Conta</string>
+    <string name="password_mismatch">As palavras-passe não coincidem.</string>
+
+
+    <string name="trip_list_title">Lista de Viagens</string>
+    <string name="no_trips_found">Nenhuma viagem encontrada.</string>
+    <string name="filter_trips">Filtrar Viagens</string>
+    <string name="start_location_label">Local de Partida</string>
+    <string name="end_location_label">Local de Destino</string>
+    <string name="apply_filter">Aplicar Filtro</string>
+
+    <string name="register_title">Registar</string>
+    <string name="register_confirm_password">Confirmar Password</string>
+    <string name="register_sucess">Registo Sucesso</string>
+    <string name="register_failed_password">Password não é igual</string>
+    <string name="register_go_to_loggin">Já tem conta? Faça loggin</string>
+    <string name="login_title">Entrar</string>
+    <string name="email_label">E-mail</string>
+    <string name="password_label">Palavra-passe</string>
+    <string name="login_button">Entrar</string>
+    <string name="register_prompt">Não tem uma conta? Registe-se</string>
+    <string name="login_success">Login realizado com sucesso</string>
+    <string name="login_failed">Erro no login: %1$s</string>
+    <string name="login_empty_fields">Por favor, preencha todos os campos</string>
+
+    <string name="start_location">Local de Partida</string>
+    <string name="end_location">Local de Destino</string>
+    <string name="from_location">De: %1$s</string>
+    <string name="to_location">Para: %1$s</string>
+    <string name="trip_price_label">Preço: %1$s</string>
+    <string name="trip_details">Ver Detalhes da Viagem</string>
+
+    <string name="see_created_trip_remove">Remover</string>
+    <string name="see_created_trip_complete">Finalizar</string>
+
+    <string name="see_trip_details_trip_price">Preço Viagem</string>
+    <string name="see_trip_details_start_hour">Hora de Inicio</string>
+    <string name="see_trip_details_available_seats">Lugares disponiveis</string>
+    <string name="see_trip_details_start_location">Locatilação inicial</string>
+    <string name="see_trip_details_end_location">Localização final</string>
+    <string name="see_trip_details_trip_duration">Duração de Viagem</string>
+    <string name="see_trip_details_total_distance">Distancia Total</string>
+    <string name="see_trip_details_stops">Paragens</string>
+    <string name="see_trip_details_participate">Participar em Viagem</string>
+
+    <string name="Sair_Da_Viagem">Sair da Viagem</string>
+
+
+    <string name="see_trip_details_phone_number">Numero de Telemovel</string>
+
+    <string name="submit">Submit</string>
+    <string name="enter_classification">Enter Classification</string>
+    <string name="add_classification">Add Classification</string>
+
+    <string name="error_invalid_classification">Classificasão entre 1 e 5</string>
+
+    <string name="phone_number_label">Numero de telefone</string>
+
+    <string name="see_day_start">Inicio de Viagem</string>
+
+    <string name="no_available_seats">Não há lugares disponiveis</string>
+
+    <string name="medium_classification">Classificação Condutor</string>
+
+
+</resources>

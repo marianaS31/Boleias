@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CMUgrupo8</string>
+    <string name="hello">hello</string>
+    <string name="menu">Menu</string>
+    <string name="profile">Profile</string>
+    <string name="hello_user">Hello, %1$s!</string>
+    <string name="home">Home</string>
+    <string name="create_trip">Create Trip</string>
+    <string name="history">History</string>
+    <string name="created_trips">Created Trips</string>
+    <string name="participating_trips">Participating Trips</string>
+    <string name="logout">Logout</string>
+</resources>

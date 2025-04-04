@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CMUgrupo8</string>
+    <string name="hello">hello</string>
+    <string name="menu">Menu</string>
+    <string name="profile">Profile</string>
+    <string name="hello_user">Hello, User!</string>
+    <string name="home">Home</string>
+    <string name="create_trip">Create Trip</string>
+    <string name="history">History</string>
+    <string name="created_trips">Created Trips</string>
+    <string name="participating_trips">Participating Trips</string>
+    <string name="logout">Logout</string>
+
+    <!-- Add Car Strings -->
+    <string name="add_car_details">Add Car Details</string>
+    <string name="brand">Brand</string>
+    <string name="model">Model</string>
+    <string name="color">Color</string>
+    <string name="year">Year</string>
+    <string name="number_of_seats">Number of Seats</string>
+    <string name="save_changes">Save Changes</string>
+
+    <!-- Trip Page Strings -->
+    <string name="selected_location">Selected Location</string>
+    <string name="add_first_location">Add First Location</string>
+    <string name="add_last_location">Add Last Location</string>
+    <string name="add_stop">Add Stop to Trip</string>
+    <string name="reset_locations">Reset Locations</string>
+    <string name="trip_price">Trip Price</string>
+    <string name="select_start_date">Select Start Date</string>
+    <string name="select_start_hour">Select Start Hour</string>
+    <string name="max_passengers">Max Passengers</string>
+    <string name="submit_trip">Submit Trip</string>
+    <string name="validation_start_end">Please ensure you have a start and an end location.</string>
+    <string name="validation_fields">Please fill in the trip price, start hour, and max passengers.</string>
+
+    <!-- Map Strings -->
+    <string name="search_location">Search Location</string>
+    <string name="no_location">No location found for</string>
+    <string name="error_search_location">Error occurred while searching location</string>
+    <string name="no_location_selected">No location selected</string>
+    <string name="street">Street</string>
+    <string name="latitude">Latitude</string>
+    <string name="longitude">Longitude</string>
+
+    <!-- Edit User Screen -->
+    <string name="edit_user">Edit User</string>
+    <string name="name_label">Name</string>
+    <string name="phone_label">Mobile Phone</string>
+    <string name="new_password">New Password</string>
+    <string name="confirm_new_password">Confirm New Password</string>
+    <string name="save_changess">Save Changes</string>
+    <string name="add_car">Add Car</string>
+    <string name="remove_car">Remove Car</string>
+    <string name="delete_account">Delete Account</string>
+    <string name="password_mismatch">Passwords do not match.</string>
+
+
+    <string name="trip_list_title">Trip List</string>
+    <string name="no_trips_found">No trips found.</string>
+    <string name="filter_trips">Filter Trips</string>
+    <string name="start_location_label">Start Location</string>
+    <string name="end_location_label">End Location</string>
+    <string name="apply_filter">Apply Filter</string>
+
+    <string name="register_title">Register</string>
+    <string name="register_confirm_password">Confirm Password</string>
+    <string name="register_sucess">Registration Successful</string>
+    <string name="register_failed_password">Passwords do not match</string>
+    <string name="register_go_to_loggin">Already have an account? Loggin</string>
+    <string name="login_title">Login</string>
+    <string name="email_label">Email</string>
+    <string name="password_label">Password</string>
+    <string name="login_button">Login</string>
+    <string name="register_prompt">Don\'t have an account? Register</string>
+    <string name="login_success">Login Successful</string>
+    <string name="login_failed">Login Failed: %1$s</string>
+    <string name="login_empty_fields">Please fill out all fields</string>
+
+
+    <string name="start_location">Start Location</string>
+    <string name="end_location">End Location</string>
+    <string name="from_location">From: %1$s</string>
+    <string name="to_location">To: %1$s</string>
+    <string name="trip_price_label">Price: %1$s</string>
+    <string name="trip_details">View Trip Details</string>
+
+    <string name="see_created_trip_remove">Remove</string>
+    <string name="see_created_trip_complete">Complete</string>
+
+    <string name="see_trip_details_trip_price">Trip Price</string>
+    <string name="see_trip_details_start_hour">Start Hour</string>
+    <string name="see_trip_details_available_seats">Available seats</string>
+    <string name="see_trip_details_start_location">Start Location</string>
+    <string name="see_trip_details_end_location">End Location</string>
+    <string name="see_trip_details_trip_duration">Trip Duration</string>
+    <string name="see_trip_details_total_distance">Total Distance</string>
+    <string name="see_trip_details_stops">Stops</string>
+    <string name="see_trip_details_participate">Participate in Trip</string>
+
+
+    <string name="Sair_Da_Viagem">Leave Trip</string>
+
+    <string name="see_trip_details_phone_number">Phone Number</string>
+
+    <string name="submit">Submit</string>
+    <string name="enter_classification">Enter Classification</string>
+    <string name="add_classification">Add Classification</string>
+
+    <string name="error_invalid_classification">Classification betwin 1 and 5</string>
+
+    <string name="phone_number_label">Phone Number</string>
+
+    <string name="see_day_start">Start Date</string>
+
+
+    <string name="no_available_seats">No available seats</string>
+
+    <string name="medium_classification">Driver Classification</string>
+
+
+</resources>
